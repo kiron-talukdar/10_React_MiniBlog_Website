@@ -71,7 +71,7 @@
     },
     {
       "id": 8,
-      "cover": "https://example.com/images/post8.jpg",
+      "cover": "https://i.ibb.co.com/HTthSDB/7582.jpg",
       "title": "Exploring Deno: The New JavaScript Runtime",
       "author": "Sarah Johnson",
       "reading_time": "7 min read",
@@ -81,7 +81,7 @@
     },
     {
       "id": 9,
-      "cover": "https://example.com/images/post9.jpg",
+      "cover": "https://i.ibb.co.com/NpBbftX/6155250.jpg",
       "title": "Mastering React Hooks",
       "author": "James Taylor",
       "reading_time": "5 min read",
@@ -91,7 +91,7 @@
     },
     {
       "id": 10,
-      "cover": "https://example.com/images/post10.jpg",
+      "cover": "https://i.ibb.co.com/4pMq9v3/20781056-6355883.jpg",
       "title": "Server-Side Rendering with Nuxt.js",
       "author": "Isabella Carter",
       "reading_time": "8 min read",
