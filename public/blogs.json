@@ -4,7 +4,7 @@
       "cover": "https://i.ibb.co.com/Cb56ZgS/laptop-gadget-device-notebook-blank-space-concept.jpg",
       "title": "The Rise of JavaScript",
       "author": "John Doe",
-      "reading_time": "5 min read",
+      "reading_time":5,
       "author_img": "https://example.com/images/johndoe.jpg",
       "post_date": "2024-10-10",
       "hashtags": ["#JavaScript", "#WebDevelopment", "#Programming"]
@@ -14,7 +14,7 @@
       "cover": "https://i.ibb.co.com/KK2Q0qz/toy-bricks-table-with-word-my-blog.jpg",
       "title": "Understanding Async/Await",
       "author": "Jane Smith",
-      "reading_time": "7 min read",
+      "reading_time":7,
       "author_img": "https://example.com/images/janesmith.jpg",
       "post_date": "2024-10-12",
       "hashtags": ["#AsyncAwait", "#JavaScript", "#Coding"]
@@ -24,7 +24,7 @@
       "cover": "https://i.ibb.co.com/m5ZRRWG/create-your-own-brand-words-woman-working-laptop-background.jpg",
       "title": "CSS Grid vs Flexbox: Which to Use?",
       "author": "Emily Johnson",
-      "reading_time": "6 min read",
+      "reading_time": 6,
       "author_img": "https://example.com/images/emilyjohnson.jpg",
       "post_date": "2024-10-14",
       "hashtags": ["#CSS", "#WebDesign", "#Frontend"]
@@ -34,7 +34,7 @@
       "cover": "https://i.ibb.co.com/nLT6zSb/full-shot-family-silhouette-having-fun-sunset.png",
       "title": "The Future of WebAssembly",
       "author": "Chris Lee",
-      "reading_time": "8 min read",
+      "reading_time": 8,
       "author_img": "https://example.com/images/chrislee.jpg",
       "post_date": "2024-10-15",
       "hashtags": ["#WebAssembly", "#Programming", "#WASM"]
@@ -44,7 +44,7 @@
       "cover": "https://i.ibb.co.com/wYxh73F/anastasia-vishnevetskaya-xbnil-Ohwkc-unsplash-1.jpg",
       "title": "Why TypeScript Matters in 2024",
       "author": "Sophia Brown",
-      "reading_time": "9 min read",
+      "reading_time": 9,
       "author_img": "https://example.com/images/sophiabrown.jpg",
       "post_date": "2024-10-17",
       "hashtags": ["#TypeScript", "#JavaScript", "#TechTrends"]
@@ -54,7 +54,7 @@
       "cover": "https://i.ibb.co.com/8dHryvG/rafay-ansari-o-HEM4s82-CKk-unsplash.jpg",
       "title": "Building Accessible Web Apps",
       "author": "Michael Green",
-      "reading_time": "10 min read",
+      "reading_time":4,
       "author_img": "https://example.com/images/michaelgreen.jpg",
       "post_date": "2024-10-18",
       "hashtags": ["#Accessibility", "#WebDevelopment", "#InclusiveDesign"]
@@ -64,7 +64,7 @@
       "cover": "https://i.ibb.co.com/hdqft4H/mayur-deshpande-z-ZPeo-Lx-LRy-M-unsplash.jpg",
       "title": "Next.js: The Framework for the Future",
       "author": "David Wilson",
-      "reading_time": "6 min read",
+      "reading_time": "6",
       "author_img": "https://example.com/images/davidwilson.jpg",
       "post_date": "2024-10-20",
       "hashtags": ["#Nextjs", "#React", "#FrontendDevelopment"]
@@ -74,7 +74,7 @@
       "cover": "https://i.ibb.co.com/HTthSDB/7582.jpg",
       "title": "Exploring Deno: The New JavaScript Runtime",
       "author": "Sarah Johnson",
-      "reading_time": "7 min read",
+      "reading_time": "7",
       "author_img": "https://example.com/images/sarahjohnson.jpg",
       "post_date": "2024-10-21",
       "hashtags": ["#Deno", "#JavaScript", "#WebDevelopment"]
@@ -84,7 +84,7 @@
       "cover": "https://i.ibb.co.com/NpBbftX/6155250.jpg",
       "title": "Mastering React Hooks",
       "author": "James Taylor",
-      "reading_time": "5 min read",
+      "reading_time": "5",
       "author_img": "https://example.com/images/jamestaylor.jpg",
       "post_date": "2024-10-22",
       "hashtags": ["#React", "#Hooks", "#Frontend"]
@@ -94,7 +94,7 @@
       "cover": "https://i.ibb.co.com/4pMq9v3/20781056-6355883.jpg",
       "title": "Server-Side Rendering with Nuxt.js",
       "author": "Isabella Carter",
-      "reading_time": "8 min read",
+      "reading_time": "8",
       "author_img": "https://example.com/images/isabellacarter.jpg",
       "post_date": "2024-10-23",
       "hashtags": ["#Nuxtjs", "#SSR", "#Vuejs"]
